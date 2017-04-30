@@ -1,13 +1,11 @@
-###################
-What am i
-###################
+
+# What am i
 
 I'm just a little js lib to place some words with a custom class in a div.
 You have the full control over the style.
 
-************
-Use me
-************
+
+# Use me
 
 ```js
 var words = ['blue', 'birds', 'be', 'aware'],
@@ -25,3 +23,5 @@ words.forEach(function(word, index){
 
 $('#cloud').JSCloud(newWords);
 ```
+
+Easy as pie, isn't it?
